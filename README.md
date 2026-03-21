@@ -40,7 +40,7 @@ Java (JDK 8+)
 
 JDBC
 
-SQLite / MySQL
+MySQL
 
 Console-based UI
 
